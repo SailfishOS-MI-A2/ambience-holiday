@@ -1,0 +1,8 @@
+{
+"version"                   : 2,
+    "translationCatalog"        : "ambience-sailboat",
+    "displayName"               : "Sailboat",
+    "wallpaper"                 : "ambience-sailboat.jpg",
+    "ringerVolume"              : 100,
+    "favorite"			: true
+}

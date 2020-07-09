@@ -1,0 +1,8 @@
+{
+"version"                   : 2,
+    "translationCatalog"        : "ambience-ocean",
+    "displayName"               : "Ocean",
+    "wallpaper"                 : "ambience-ocean.jpg",
+    "ringerVolume"              : 100,
+    "favorite"			: true
+}

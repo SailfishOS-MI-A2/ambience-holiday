@@ -1,0 +1,8 @@
+{
+"version"                   : 2,
+    "translationCatalog"        : "ambience-flamingo",
+    "displayName"               : "Flamingo",
+    "wallpaper"                 : "ambience-flamingo.jpg",
+    "ringerVolume"              : 100,
+    "favorite"			: true
+}

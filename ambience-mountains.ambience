@@ -1,0 +1,8 @@
+{
+"version"                   : 2,
+    "translationCatalog"        : "ambience-mountains",
+    "displayName"               : "Mountains",
+    "wallpaper"                 : "ambience-mountains.jpg",
+    "ringerVolume"              : 100,
+    "favorite"			: true
+}

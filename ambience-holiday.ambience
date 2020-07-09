@@ -1,0 +1,8 @@
+{
+    "version"                   : 2,
+    "translationCatalog"        : "ambience-holiday",
+    "displayName"               : "Holiday",
+    "wallpaper"                 : "ambience-holiday.jpg",
+    "ringerVolume"              : 100,
+    "favorite"			: true
+}
